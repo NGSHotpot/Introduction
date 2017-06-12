@@ -15,8 +15,9 @@ So，不要再苦恼现在吃的苦都是当时选生物专业时脑子进的水
 
 >Thanks to NGS, all 21th biology is computational biology. –NGS Hotpot (2017)
 
-#Reference
-*http://www.eoht.info/page/Neumann-Shannon+anecdote
-*https://www.genome.gov/sequencingcostsdata/
-*Moore G E. Cramming more components onto integrated circuits[J]. Proceedings of the IEEE, 1998, 86(1): 82-85.
-*https://www.mordorintelligence.com/industry-reports/global-next-generation-sequencing-ngs-market-industry
+# Reference
+
+1. http://www.eoht.info/page/Neumann-Shannon+anecdote
+2. https://www.genome.gov/sequencingcostsdata/
+3. Moore G E. Cramming more components onto integrated circuits[J]. Proceedings of the IEEE, 1998, 86(1): 82-85.
+4. https://www.mordorintelligence.com/industry-reports/global-next-generation-sequencing-ngs-market-industry
