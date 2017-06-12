@@ -6,7 +6,7 @@ Next Generation Sequencing (NGS，可以戏称为农工商)感觉上应该也该
 
 根据National Human Genome Research Institute (NHGRI)的统计，2001年使用桑格测序方法每百万碱基花费大于5000美元，而2015年使用NGS得到一百万剪辑序列仅需0.014美元，个中趋势如下图 [2]。单测序市场的预估之大，不容错过，到2021年（眼看着也没几年了），有12 billion USD [3]。以前大概还只是科研机构来贡献，现在目测还得加上各种临床检验的尝试，筛药贡献的数据。 
 
-![](https://github.com/NGSHotpot/Introduction/blob/master/image1.png =600*450)
+![](https://github.com/NGSHotpot/Introduction/blob/master/image1.png =600x450)
 
 朋友们，这是超越摩尔定律的趋势。那你知道摩尔定律是如下5个点猜出来的吗[3]？就这5个点的带来的预期，21世纪的码农就有无数的砖可以搬。那NGS这种超摩尔定律的趋势代表了什么呢？越来越多的数据和越来越多具有想象力的应用，即各种棱角可以搬的砖，只有想象力制约了砖的形状。就测序方法层面，从一开始的全基因组测序一步步走上了功能化解读的ChIP-seq，RNA-seq，一波走起到GRO-seq，ATAC-seq，Hi-C，HiChIP，eCLIP等等。就工具层面我们看到例如单就RNA-seq而言，前几年的一波TopHat+Cufflinks+Cuffdiff，现在又一波HISAT+StringTie+Ballgown等工具的翻新。考虑到单分子技术的火热，上述两条分类又整了一波单分子潮流。就大型合作方面，ENCODE，Roadmap，Blueprint，TCGA一波又一波地刷屏。就应用型公司方面，抱歉，没收推广费，不发软文。 
 
